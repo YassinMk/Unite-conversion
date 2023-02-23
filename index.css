@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100&family=Kanit&family=Karla&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    background:  #1C1C1C;
+    min-width: 550px;
+}
+.container{
+    margin: 126px auto;
+    width:550px;
+    height: 729px;
+    background: whitesmoke;
+    border-radius: 4px;
+}
+.entery{
+    height: 285px;
+    background: #6943FF;
+    border-radius: 2px;
+}
+.entery p{
+    width: 448.4px;
+    height: 38px;
+    padding-top: 38px;
+    padding-left:51px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight:bold;
+    font-size: 28px;
+    text-align: center;
+    letter-spacing: -0.03em;
+    color: #FFFFFF;    
+}
+#input-el{
+    width: 117px;
+    height: 83px;
+    margin-left: 39%;
+    border: 2px solid #B295FF;
+    border-radius: 5px;
+    background: #6943FF;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 800;
+    font-size: 58px;
+    /* or 42% */
+    text-align: center;
+    color: white;
+    display: block;
+    
+        
+}
+#convert-btn{
+    width: 117px;
+    height: 42px;
+    margin-left: 217px;
+    background: #FFFFFF;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border-radius: 5px;
+    border:none;
+    
+}
+.output{
+    
+    width:550px;
+    height: 444px;
+    background: whitesmoke;
+    border-radius: 4px;
+}
+.Length{
+    margin-top: 36px;
+    width: 500px;
+    height: 108.57px;
+    background:white;
+    margin-left: 25px;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 5px;
+    box-shadow: 10px 10px 49px -21px rgba(0,0,0,0.78);
+    -webkit-box-shadow: 10px 10px 49px -21px rgba(0,0,0,0.78);
+    -moz-box-shadow: 10px 10px 49px -21px rgba(0,0,0,0.78);
+}
+.Length h3{
+    padding-top: 31px;
+    color: #5A537B;
+    font-family: 'Poppins', sans-serif;
+}
+.Length p{
+    font-family: 'Poppins', sans-serif;
+}
+
+.Volume{
+    width: 500px;
+    height: 108.57px;
+    background:white;
+    margin-left: 25px;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 5px;
+    box-shadow: 10px 10px 49px -21px rgba(0,0,0,0.78);
+    -webkit-box-shadow: 10px 10px 49px -21px rgba(0,0,0,0.78);
+    -moz-box-shadow: 10px 10px 49px -21px rgba(0,0,0,0.78);
+    
+}
+.Volume h3{
+    padding-top: 31px;
+    color: #5A537B;
+    font-family: 'Poppins', sans-serif;
+}
+.Volume p{
+    font-family: 'Poppins', sans-serif;   
+}
+
+
+
+.Length p{
+    font-family: 'Poppins', sans-serif;
+}
+.Mass{
+    margin-top: -200px;
+    width: 500px;
+    height: 108.57px;
+    background:white;
+    margin-left: 25px;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 5px;
+    box-shadow: 10px 10px 49px -21px rgba(0,0,0,0.78);
+    -webkit-box-shadow: 10px 10px 49px -21px rgba(0,0,0,0.78);
+    -moz-box-shadow: 10px 10px 49px -21px rgba(0,0,0,0.78);
+}
+.Mass h3{
+    padding-top: 31px;
+    color: #5A537B;
+    font-family: 'Poppins', sans-serif;
+}
+.Mass p{
+    font-family: 'Poppins', sans-serif;
+}
